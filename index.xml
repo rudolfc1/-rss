@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>????? ???</title>
+    <title>모두의 티켓</title>
     <link>https://ticket2money.isweb.co.kr/link</link>
-    <description>???? ? ?????? ??? ?? ???</description>
+    <description>최신 소액결제·정보이용료 현금화 관련 글 모음</description>
     <language>ko</language>
     <lastBuildDate>Fri, 01 Aug 2025 05:21:31 GMT</lastBuildDate>
+
     <item>
-      <title>?????? ??? ???</title>
+      <title>콘텐츠이용료 현금화 총정리</title>
       <link>https://ticket2money.isweb.co.kr/blog/content-cash</link>
-      <description><![CDATA[ ?????? ???? ?? ?? ?? ]]></description>
+      <description><![CDATA[ 콘텐츠이용료를 통해 현금화하는 방법 정리 ]]></description>
       <pubDate>Thu, 01 Aug 2025 12:00:00 +0900</pubDate>
       <guid>https://ticket2money.isweb.co.kr/blog/content-cash</guid>
     </item>
+
     <item>
-      <title>???? ??? ??</title>
+      <title>소액결제 현금화 가이드</title>
       <link>https://ticket2money.isweb.co.kr/blog/smallpay-cash-guide</link>
-      <description><![CDATA[ ???? ???? ???? ???? ? ]]></description>
+      <description><![CDATA[ 소액결제 현금화 과정과 주의할 점에 대해 알려드립니다 ]]></description>
       <pubDate>Wed, 31 Jul 2025 18:00:00 +0900</pubDate>
       <guid>https://ticket2money.isweb.co.kr/blog/smallpay-cash-guide</guid>
     </item>
