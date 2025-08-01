@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>????? ???</title>
-    <link>https://ticket2money.isweb.co.kr/link</link>
-    <description>???? ? ?????? ??? ?? ???</description>
+    <title><![CDATA[모두의 티켓 최신 글]]></title>
+    <link>https://ticket2money.isweb.co.kr</link>
+    <description><![CDATA[소액결제·콘텐츠이용료·정보이용료 현금화 관련 최신 블로그 글을 RSS로 받아보세요.]]></description>
     <language>ko</language>
-    <lastBuildDate>Fri, 01 Aug 2025 05:02:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 08:00:00 GMT</lastBuildDate>
+
     <item>
-      <title>?????? ??? ???</title>
-      <link>https://ticket2money.isweb.co.kr/blog/content-cash</link>
-      <description><![CDATA[ ?????? ???? ?? ?? ?? ]]></description>
-      <pubDate>Thu, 01 Aug 2025 12:00:00 +0900</pubDate>
-      <guid>https://ticket2money.isweb.co.kr/blog/content-cash</guid>
-    </item>
-    <item>
-      <title>???? ??? ??</title>
+      <title><![CDATA[소액결제 현금화 95, 100 과연 가능할까?]]></title>
       <link>https://ticket2money.isweb.co.kr/blog/smallpay-cash-guide</link>
-      <description><![CDATA[ ???? ???? ???? ???? ? ]]></description>
-      <pubDate>Wed, 31 Jul 2025 18:00:00 +0900</pubDate>
+      <description><![CDATA[소액결제 현금화 수수료 95% 또는 100%라는 광고의 실체와 주의할 점을 상세히 안내합니다.]]></description>
+      <pubDate>Thu, 01 Aug 2025 07:00:00 GMT</pubDate>
       <guid>https://ticket2money.isweb.co.kr/blog/smallpay-cash-guide</guid>
     </item>
+
+    <item>
+      <title><![CDATA[정보이용료 현금화 사기 피해 예방법]]></title>
+      <link>https://ticket2money.isweb.co.kr/blog/content-cash</link>
+      <description><![CDATA[정보이용료를 활용한 현금화 과정에서 발생하는 사기 유형과 예방법을 소개합니다.]]></description>
+      <pubDate>Wed, 31 Jul 2025 08:00:00 GMT</pubDate>
+      <guid>https://ticket2money.isweb.co.kr/blog/content-cash</guid>
+    </item>
+
+    <item>
+      <title><![CDATA[신용카드 현금화가 신용 점수에 미치는 영향]]></title>
+      <link>https://ticket2money.isweb.co.kr/blog/card-score-impact</link>
+      <description><![CDATA[신용카드 현금화가 개인의 신용점수에 어떤 영향을 미치는지 실질적인 사례와 함께 분석합니다.]]></description>
+      <pubDate>Tue, 30 Jul 2025 06:00:00 GMT</pubDate>
+      <guid>https://ticket2money.isweb.co.kr/blog/card-score-impact</guid>
+    </item>
+
   </channel>
 </rss>
