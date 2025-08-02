@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rudolfc1.github.io/-rss/sitemab.xml
+Sitemap: https://rudolfc1.github.io/-rss/index.xml
